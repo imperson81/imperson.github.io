@@ -24,6 +24,6 @@ I'm building my portfolio and offering significantly reduced rates to gain exper
 
 ## 📫 Contact Me
 
--   **Twitter:** [@imperson](https://twitter.com/imperson)
+-   **Twitter:** [@impersontechte](https://twitter.com/impersontech)
 -   **Email:** impersonofmkmmlf85@gmail.com
 -   **HackerOne:** [impersontech](https://hackerone.com/impersontech)
